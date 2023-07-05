@@ -38,7 +38,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Khushijha5544/KHUSHIMUSICBOT",
+    "https://github.com/Khushijha5544/Khiladix",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -110,17 +110,17 @@ PING_IMG_URL = getenv(
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://te.legra.ph/file/b4bf6235f67aceab96929.jpg",
+    "https://te.legra.ph/file/d99a4cfcf0b85b0edd559.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://te.legra.ph/file/b4bf6235f67aceab96929.jpg",
+    "https://te.legra.ph/file/d99a4cfcf0b85b0edd559.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://te.legra.ph/file/c92961aef8fc32b124739.jpg",
+    "https://te.legra.ph/file/d99a4cfcf0b85b0edd559.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
@@ -135,32 +135,32 @@ TELEGRAM_VIDEO_URL = getenv(
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "assets/Stream.jpeg",
+    "https://te.legra.ph/file/d99a4cfcf0b85b0edd559.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "assets/Soundcloud.jpeg",
+    "https://te.legra.ph/file/d99a4cfcf0b85b0edd559.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "assets/Youtube.jpeg",
+    "https://te.legra.ph/file/d99a4cfcf0b85b0edd559.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "assets/SpotifyArtist.jpeg",
+    "https://te.legra.ph/file/d99a4cfcf0b85b0edd559.jpg",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
     "SPOTIFY_ALBUM_IMG_URL",
-    "assets/SpotifyAlbum.jpeg",
+    "https://te.legra.ph/file/d99a4cfcf0b85b0edd559.jpg",
 )
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
     "SPOTIFY_PLAYLIST_IMG_URL",
-    "assets/SpotifyPlaylist.jpeg",
+    "https://te.legra.ph/file/d99a4cfcf0b85b0edd559.jpg",
 )
 
 
